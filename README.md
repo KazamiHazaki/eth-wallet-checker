@@ -34,9 +34,9 @@ After providing the wallet address, the script will display the balance of Ether
 # Example
 ```bash
 Your HTTP Provider: https://mainnet.infura.io/v3/your_infura_project_id
-Input your ETH Wallet: 0x6a5C69ea2Fe700E7e6AA008a0193666594F8C48b
+Input your ETH Wallet: 0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-ETH balance for address: 0x6a5C69ea2Fe700E7e6AA008a0193666594F8C48b
+ETH balance for address: 0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ETH: 1.2345
 ```
 
